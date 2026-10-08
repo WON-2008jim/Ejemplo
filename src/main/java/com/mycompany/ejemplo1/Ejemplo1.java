@@ -13,4 +13,8 @@ public class Ejemplo1 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+    
+    private int idDetalleContrato;
+    private String cargoAdicional;
+    private double monto;
 }

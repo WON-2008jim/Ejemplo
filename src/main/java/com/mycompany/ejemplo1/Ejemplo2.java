@@ -10,5 +10,4 @@ package com.mycompany.ejemplo1;
  */
 public class Ejemplo2 {
     Persona persona1 = new Persona();
-    persona1.dpi = "64655464";
 }
