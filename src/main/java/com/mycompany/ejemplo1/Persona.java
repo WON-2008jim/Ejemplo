@@ -17,6 +17,5 @@ public class Persona {
     private int edad;
     
     private void setDpi(int dpi){
-        this.dpi = dpi;
     }
 }
